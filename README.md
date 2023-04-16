@@ -21,4 +21,5 @@
 https://user-images.githubusercontent.com/75495921/216806483-81d01184-e1e6-4b9e-adef-e1869254da55.mp4
 
 
-live preview [The Simon Game ](https://abhay113.github.io/The_Simon_Game/)
+# Live preview 
+[The Simon Game ](https://abhay113.github.io/The_Simon_Game/)
